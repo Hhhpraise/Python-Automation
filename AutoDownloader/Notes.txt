@@ -1,0 +1,13 @@
+
+To create an automation script in Python to download files from a list of URLs provided in a text file, you can use the requests library, which is a simple HTTP library for Python. Below is an example implementation:
+
+Install Requests Library:
+If you haven't already installed the requests library, you can do so using pip:
+
+pip install requests
+
+
+Create a text file named urls.txt containing a list of URLs, each on a separate line.
+Execute the Python script, and it will download the files from the URLs provided in the urls.txt file to the specified output directory (downloads).
+
+This script will iterate through each URL in the urls.txt file, download the corresponding file, and save it to the specified output directory. It handles cases where the file may not exist or if there are any errors during the download process.
