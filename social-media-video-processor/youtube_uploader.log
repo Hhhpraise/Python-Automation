@@ -1,0 +1,3 @@
+2025-05-15 17:55:13,661 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-15 17:56:45,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-15 17:59:33,782 - WARNING - Sleeping 1.16 seconds before retry 1 of 1 for request: GET https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest, after [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
